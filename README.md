@@ -18,10 +18,14 @@ Gemini Clone Website is a project aimed at replicating the functionality and des
 
 ## Features
 
+## Features
+
 - **Real-time Market Data:** Fetches real-time market data from the Gemini API to display cryptocurrency prices, volume, and other relevant information.
-- **Trading Interface:** Provides a user-friendly trading interface where users can buy, sell, and manage their cryptocurrency assets.
-- **User Authentication:** Implements user authentication for secure access to the trading platform.
-- **Responsive Design:** Ensures that the website is fully responsive and works seamlessly across various devices and screen sizes.
+- **Educational Resources:** Offers curated educational materials specifically tailored for students, including tutorials, articles, and case studies to deepen their understanding of cryptocurrency markets and investment strategies.
+- **Student Accounts:** Allows students to use for educational purposes, enabling them to explore trading concepts in a controlled environment..
+- **Real-time Q&A:** Students can ask questions related to their studies, and the platform provides real-time answers from either a knowledge base or through integration with educational APIs. This feature enhances learning by providing immediate clarification and support.
+- **Responsive Design:** Ensures that the website is fully responsive and accessible on various devices, making it convenient for students to access educational content anytime, anywhere.
+
 
 ## Installation
 
